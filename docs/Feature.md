@@ -1,0 +1,26 @@
+# BillingoApiV3.Feature
+
+## Enum
+
+* `apiLimitBasic` (value: `"api_limit_basic"`)
+* `apiLimitPro` (value: `"api_limit_pro"`)
+* `apiLimitStandard` (value: `"api_limit_standard"`)
+* `banksyncPlus` (value: `"banksync_plus"`)
+* `campaignManagerBasic` (value: `"campaign_manager_basic"`)
+* `campaignManagerStandard` (value: `"campaign_manager_standard"`)
+* `ceginfoEnterprise` (value: `"ceginfo_enterprise"`)
+* `ceginfoPro` (value: `"ceginfo_pro"`)
+* `ceginfoStandard` (value: `"ceginfo_standard"`)
+* `innovator` (value: `"innovator"`)
+* `limitIncrease` (value: `"limit_increase"`)
+* `master` (value: `"master"`)
+* `partnermonitorBasic` (value: `"partnermonitor_basic"`)
+* `partnermonitorPro` (value: `"partnermonitor_pro"`)
+* `partnermonitorStandard` (value: `"partnermonitor_standard"`)
+* `softpos` (value: `"softpos"`)
+* `subscriptionBasic` (value: `"subscription_basic"`)
+* `subscriptionPro` (value: `"subscription_pro"`)
+* `subscriptionStandard` (value: `"subscription_standard"`)
+* `tendermonitorStandard` (value: `"tendermonitor_standard"`)
+* `tendermonitorVip` (value: `"tendermonitor_vip"`)
+* `whitelabel` (value: `"whitelabel"`)
